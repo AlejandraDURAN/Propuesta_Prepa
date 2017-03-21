@@ -1,0 +1,43 @@
+/*Global*/
+
+/* Shortcuts */
+/*DISPLAY*/
+.inline{
+	display: inline-block;
+}
+
+/*WIDHT*/
+.w-100{
+	width: 100%;
+}
+/*INTERLINEADO*/
+.lh{
+	line-height: 1.5;
+}
+
+/*TEXTOS*/
+
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-white{
+	color: white;
+}
+
+.text-purple{
+	color: #58387F;
+}
+
+
+
+.bk-purple{
+	background-color: #8C3193;;
+}
+.bk-gray1{
+	background-color:#F7F7F7;
+}
+
+
